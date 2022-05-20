@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1596061862/9845/meow_heart.png?1596061862" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Tianxiao, Software engineer from Beijing, China
+<p>Welcome to my page! </br> I'm Tianxiao
 
 <h3>Open source projects</h3>
 <table>
